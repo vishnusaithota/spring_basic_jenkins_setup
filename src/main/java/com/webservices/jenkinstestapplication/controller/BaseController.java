@@ -8,6 +8,6 @@ public class BaseController {
 
     @GetMapping("/")
     public String returnHello(){
-        return "Hello World";
+        return "Hello World from Docker Image";
     }
 }
