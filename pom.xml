@@ -57,6 +57,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>jenkins-test-application</finalName>
 	</build>
 
 </project>
